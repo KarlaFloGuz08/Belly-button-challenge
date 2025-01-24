@@ -39,6 +39,5 @@ Complete the following steps:
 
 ![image](https://github.com/user-attachments/assets/4776a8b9-9337-4712-a972-40bf044c80a7)
 
-
-
+6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
