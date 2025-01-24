@@ -35,9 +35,10 @@ Complete the following steps:
 
   ![image](https://github.com/user-attachments/assets/b5de13d3-1d16-47b4-85ea-fa4c2013520a)
 
-5. Update all the plots when a new sample is selected. You are also welcome to create any layout you would like for your dashboard. An example dashboard is shown as follows:
+5. Update all the plots when a new sample is selected. You are also welcome to create any layout for your dashboard. An example dashboard is shown as follows:
 
 ![image](https://github.com/user-attachments/assets/4776a8b9-9337-4712-a972-40bf044c80a7)
+
 
 
 
